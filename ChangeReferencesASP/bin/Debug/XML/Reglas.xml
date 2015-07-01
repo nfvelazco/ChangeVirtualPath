@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<reglas>
+  <!--Regla:  ="/ y ='/   -->
+  <regla Key="=&quot;/" Value="=&quot;/###"/>
+  <regla Key="=&apos;/" Value="=&apos;/###"/>
+
+  <regla Key="=&quot; /" Value="=&quot;/###"/>
+  <regla Key="=&apos; /" Value="=&apos;/###"/>
+
+  <regla Key="= &quot;/" Value="=&quot;/###"/>
+  <regla Key="= &apos;/" Value="=&apos;/###"/>
+
+  <regla Key="= &quot; /" Value="=&quot;/###"/>
+  <regla Key="= &apos; /" Value="=&apos;/###"/>
+  
+  <!--Regla:  &"/  y &'/ -->
+  <regla Key="&amp;=&quot;/" Value="&amp;=&quot;###/"/>
+  <regla Key="&amp;=&apos;/" Value="&amp;=&apos;###/"/>
+
+  <regla Key="&amp;= &quot;/" Value="&amp;=&quot;###/"/>
+  <regla Key="&amp;= &apos;/" Value="&amp;=&apos;###/"/>
+
+  <regla Key="&amp; =&quot;/" Value="&amp;=&quot;###/"/>
+  <regla Key="&amp; =&apos;/" Value="&amp;=&apos;###/"/>
+
+  <regla Key="&amp; = &quot;/" Value="&amp;=&quot;###/"/>
+  <regla Key="&amp; = &apos;/" Value="&amp;=&apos;###/"/>
+</reglas>

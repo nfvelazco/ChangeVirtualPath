@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<exclusiones>
+  <exclusion extension="jpg" copiar="false"/>
+  <exclusion extension="png" copiar="false"/>
+  <exclusion extension="gif" copiar="false"/>
+  <exclusion extension="jpeg" copiar="false"/>
+  <exclusion extension="xsl" copiar="true"/>
+  <exclusion extension="bak" copiar="false"/>
+</exclusiones>
